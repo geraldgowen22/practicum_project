@@ -1,5 +1,4 @@
 # practicum_project
-Project for Cybersecurity Practicum
 Network Scanner CLI Tool
 
 A simple Python-based command-line network scanner that provides:
